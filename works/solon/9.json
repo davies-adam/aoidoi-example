@@ -1,0 +1,67 @@
+{
+	"work": {
+		"info": {
+			"name": "9",
+			"author": "Solon"
+		},
+		"content": [
+			{
+				"number": "1",
+				"content": "ἐκ νεφέλης πέλεται χιόνος μένος ἠδὲ χαλάζης,",
+				"footnotes": {
+					"νεφέλης": ["νεφέλη", "cloud"],
+					"πέλεται": ["πέλω", "become, be"],
+					"χιόνος": ["χιών", "snow"],
+					"χαλάζης": ["χάλαζα˘", "might"]
+				}
+			},
+			{
+				"number": "2",
+				"content": "βροντὴ δ’ ἐκ λαμπρῆς γίγνεται ἀστεροπῆς·",
+				"footnotes": {
+					"βροντὴ": ["", "thunder"],
+					"λαμπρῆς": ["λαμπρός", "bright, radiant"],
+					"ἀστεροπῆς": ["ἀστεροπή", "lightning"]
+				}
+			},
+			{
+				"number": "3",
+				"content": "ἀνδρῶν δ’ ἐκ μεγάλων πόλις ὄλλυται, ἐς δὲ",
+				"footnotes": {
+					"πόλις": ["", "city"],
+					"ὄλλυται": ["ὄλλυμι", "destroy, kill"],
+					"μονάρχου": ["μόναρχος", "monarch, sole ruler"]
+				}
+			},
+			{
+				"number": "4",
+				"content": "δῆμος ἀϊδρείῃ δουλοσύνην ἔπεσεν.",
+				"footnotes": {
+					"δῆμος": ["", "district, land, free citizens"],
+					"ἀϊδρείῃ": ["", "ignorance, dative of manner"],
+					"δουλοσύνην": ["δουλοσύνη", "(condition of) slavery"],
+					"ἔπεσεν": ["ἔπεσον", "fall, fall down"]
+				}
+			},
+			{
+				"number": "5",
+				"content": "λίην δ’ ἐξάραντ’ οὐ ῥᾴδιόν ἐστι κατασχεῖν",
+				"footnotes": {
+					"λίην": ["", "very, very much"],
+					"ἐξάραντ’": ["ἐξ-αείρω -αρῶ -ῆρα", "lift up; exalt; exaggerate; supply δῆμον, τινα or the like to agree with the ptcpl and to provide the implicit subject of κατασχεῖν. “After having exalted (a great man) very much, it is not easy to restrain him later."],
+					"ῥᾴδιόν": ["ῥᾴδιος", "easy"],
+					"κατασχεῖν": ["κατ-έχω", "to hold back, to restrain, to posess, to seize"]
+				}
+			},
+			{
+				"number": "6",
+				"content": "ὕστερον, ἀλλ’ ἤδη χρὴ <τάδε> πάντα νοεῖν",
+				"footnotes": {
+					"ὕστερον": ["", "adv. from ὕστερος later."],
+					"ἤδη": ["", "now, already"],
+					"νοεῖν": ["νοέω", "perceive, consider, understand"]
+				}
+			}
+		]
+	}
+}

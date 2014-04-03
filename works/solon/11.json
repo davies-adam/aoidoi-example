@@ -1,0 +1,88 @@
+{
+	"work": {
+		"info": {
+			"name": "11",
+			"author": "Solon"
+		},
+		"content": [
+			{
+				"number": "1",
+				"content": "εἰ δὲ πεπόνθατε λυγρὰ δι’ ὑμετέρην κακότητα,",
+				"footnotes": {
+					"πεπόνθατε": ["πάσχω", "to suffer, to be acted upon"],
+					"λυγρὰ": ["λυγρός", "baneful, mournful; take as neut.pl. noun"],
+					"κακότητα,": ["κακότης", "badness, cowardice, distress, misery"]
+				}
+			},
+			{
+				"number": "2",
+				"content": "μή τι θεοῖς τούτων μοῖραν ἐπαμφέρετε",
+				"footnotes": {
+					"τούτων": ["", "badness, cowardice"],
+					"μοῖραν": ["μοῖρα", "portion, lot, destiny, fate"],
+					"ἐπαμφέρετε": ["ἐπ-ανα-φέρω", "pres.imper.2pl refer, ascribe"]
+				}
+			},
+			{
+				"number": "3",
+				"content": "αὐτοὶ γὰρ τούτους ηὐξήσατε ῥύσια δόντες,",
+				"footnotes": {
+					"αὐτοὶ": ["αὐτοί", "ί agreeing with prn. implicit in verb, you yourselves"],
+					"τούτων": ["τούτους", "men of the sort mentioned in Solon 9"],
+					"ηὐξήσατε": ["ηὔξησα", "increase, grow, strengthen"],
+					"ῥύσια": ["ῥύσιον", "pledge, surety, property seized for a pledge"],
+					"δόντες,": ["δίδωμι", "aor.act.part.nom.pl.m. give"]
+				}
+			},
+			{
+				"number": "4",
+				"content": "καὶ διὰ ταῦτα κακὴν ἔσχετε δουλοσύνην·",
+				"footnotes": {
+					"ἔσχετε": ["ἔσχον", "to have, to hold"],
+					"δουλοσύνην·": ["", "slavery"]
+				}
+			},
+			{
+				"number": "5",
+				"content": "ὑμέων δ’ εἷς μὲν ἕκαστος ἀλώπεκος ἴχνεσι βαίνει,",
+				"footnotes": {
+					"ὑμέων": ["ὑμῶν", "you"],
+					"εἷς": ["εἷς", "one"],
+					"ἕκαστος": ["ἕκαστος", "each"],
+					"ἀλώπεκος": ["ἀλώπηξ", "fox, which had a reputation for being sly and clever"],
+					"ἴχνεσι": ["ἴχνος", "footstep, track, dative of means"],
+					"βαίνει,": ["βαίνω", "go, walk, step"]
+				}
+			},
+			{
+				"number": "6",
+				"content": "σύμπασιν δ’ ὑμῖν χαῦνος ἔνεστι νόος·",
+				"footnotes": {
+					"σύμπασιν": ["σύμπας", "data.pl.m all together, as a whole"],
+					"χαῦνος": ["", "porous, loose, empty, frivolous"],
+					"ἔνεστι": ["ἔν-ειμι", "to be (present) in + dative"],
+					"νόος": ["", "mind, sense, judgement"]
+				}
+			},
+			{
+				"number": "7",
+				"content": "ἐς γὰρ γλῶσσαν ὁρᾶτε καὶ εἰς ἔπος αἰόλον ἀνδρός,",
+				"footnotes": {
+					"γλῶσσαν": ["γλῶσσα", "tongue, language"],
+					"ὁρᾶτε": ["ὁράω", "look at"],
+					"ἔπος": ["", "word, utterance, speech"],
+					"αἰόλον,": ["αἰόλος", "nimble, changeful, shifty"]
+				}
+			},
+			{
+				"number": "8",
+				"content": "εἰς ἔργον δ’ οὐδὲν γιγνόμενον βλέπετε.",
+				"footnotes": {
+					"ἔργον": ["ἔργον", "work, deed"],
+					"γιγνόμενον": ["γίγνομαι", "of acts or events, come to pass, take place"],
+					"βλέπετε.": ["βλέπω", "look at"]
+				}
+			}
+		]
+  }
+}

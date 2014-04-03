@@ -1,0 +1,16 @@
+@import url('//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css');
+
+
+h1 {
+  font-family: "Gentium Basic", serif;
+  font-size: 3em;
+}
+
+span {
+  font-family: "Gentium Basic", serif;
+  font-size: 2.5em;
+}
+
+a {
+  color: black;
+}
