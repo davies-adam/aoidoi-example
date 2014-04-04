@@ -3,17 +3,17 @@
 h1 {
   padding: 1em;
   font-family: "Gentium Basic", serif;
-  font-size: 3em;
+  font-size: 4em;
 }
 
 h2 {
   font-family: "Gentium Basic", serif;
-  font-size: 2em;
+  font-size: 3em;
 }
 
 span, .popover-title, .popover-content {
   font-family: "Gentium Basic", serif;
-  font-size: 1.75em;
+  font-size: 2.5em;
 }
 
 .number {
