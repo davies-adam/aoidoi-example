@@ -22,7 +22,27 @@
 					"δώτορες": ["δώτωρ", "giver"],
 					"ἀμφοτέρων": ["ἀμφότερος", "either"]
 				}
+			},
+			{
+				"number": "135",
+				"content": "οὐδέ τις ἀνθρώπων ἐργάζεται ἐν φρεσὶν εἰδώς",
+				"footnotes": {
+					"ἐργάζεται": ["ἐργάζομαι", "work"],
+					"φρεσὶν": ["φρήν φρενός", "dat.pl diaphragm but usualy metaphorically used to mean heart, soul, mind"],
+					"εἰδώς": ["εἴσομαι", "know"]
+				}
+			},
+			{
+				"number": "136",
+				"content": "ἐς τέλος εἴτ’ ἀγαθὸν γίγνεται εἴτε κακόν.",
+				"footnotes": {
+					"τέλος": ["", "result, outcome, completion, end; ἐς τέλος in the end."],
+					"γίγνεται": ["", "turn out, come into a new state of being"]
+				}
+			},
+			{
+				"number": "137",
+				"content": "πολλάκι γὰρ δοκέων θήσειν κακὸν ἐσθλὸν ἔθηκεν"
 			}
 		]
-  }
 }
