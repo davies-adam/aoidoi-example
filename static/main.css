@@ -1,7 +1,7 @@
 @import url('//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css');
 
-
 h1 {
+  padding: 1em;
   font-family: "Gentium Basic", serif;
   font-size: 3em;
 }
@@ -14,6 +14,14 @@ h2 {
 span {
   font-family: "Gentium Basic", serif;
   font-size: 1.5em;
+}
+
+.number {
+  padding: 1em;
+}
+
+.emp {
+  font-weight: bold;
 }
 
 a {

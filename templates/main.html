@@ -14,6 +14,11 @@
   <h1>{{data.work.info.author + " ~ " + data.work.info.name}}</h1>
   <h2>{{data.work.preface}}</h2>
   {% for line in data.work.content %}
+    {% if line.number|int is divisibleby(5) %}
+      <span class="emp number">{{line.number}}</span>    
+    {% else %}
+      <span class="number">{{line.number}}</span>    
+    {% endif %}
     {% for word in line.content.split(" ") %}
       {% if word in line.footnotes %}
         {% if line.footnotes[word][0] == "" %}
