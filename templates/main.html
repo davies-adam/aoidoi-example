@@ -13,6 +13,7 @@
 <body>
   <h1>{{data.work.info.author + " ~ " + data.work.info.name}}</h1>
   <h2>{{data.work.preface}}</h2>
+  <br>
   {% for line in data.work.content %}
     {% if line.number|int is divisibleby(5) %}
       <span class="emp number">{{line.number}}</span>    

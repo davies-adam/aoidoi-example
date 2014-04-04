@@ -20,7 +20,7 @@
 				"content": "ἀλλὰ θεοὶ τούτων δώτορες ἀμφοτέρων·",
 				"footnotes": {
 					"δώτορες": ["δώτωρ", "giver"],
-					"ἀμφοτέρων": ["ἀμφότερος", "either"]
+					"ἀμφοτέρων·": ["ἀμφότερος", "either"]
 				}
 			},
 			{
@@ -42,7 +42,57 @@
 			},
 			{
 				"number": "137",
-				"content": "πολλάκι γὰρ δοκέων θήσειν κακὸν ἐσθλὸν ἔθηκεν"
+				"content": "πολλάκι γὰρ δοκέων θήσειν κακὸν ἐσθλὸν ἔθηκεν",
+				"footnotes": {
+					"δοκέων": ["δοκέω", "think, suppose; seem"],
+					"θήσειν": ["δοκέων θήσειν κακὸν", "Take δοκέων θήσειν κακόν as a concessive participle clause."],
+					"κακὸν": ["δοκέων θήσειν κακὸν", "Take δοκέων θήσειν κακόν as a concessive participle clause."]
+				}
+			},
+			{
+				"number": "138",
+				"content": "καί τε δοκῶν θήσειν ἐσθλὸν ἔθηκε κακόν",
+				"footnotes": {
+					"δοκῶν": ["δοκῶν θήσειν ἐσθλόν", "As in 137, take as a concessive participle clause"],
+					"θήσειν": ["δοκῶν θήσειν ἐσθλόν", "As in 137, take as a concessive participle clause"],
+					"ἐσθλὸν": ["δοκῶν θήσειν ἐσθλόν", "As in 137, take as a concessive participle clause"]
+				}
+			},
+			{
+				"number": "139",
+				"content": "οὐδέ τῳ ἀνθρώπων παραγίγνεται ὅσσ’ ἐθέλῃσιν·",
+				"footnotes": {
+					"τῳ": ["τῳ", "note accenting = τινί"],
+					"παραγίγνεται": ["παρα-γίγνομαι", "be near, come near, come to + dative"],
+					"ὅσσ’": ["ὅσ(σ)ος", "as great, as much, as many as"]
+				}
+			},
+			{
+				"number": "140",
+				"content": "ἴσχει γὰρ χαλεπῆς πείρατ’ ἀμηχανίης.",
+				"footnotes": {
+					"ἴσχει": ["ἴσχω", "hold, keep back; have; the subject is πείρατα, the object is unexpressed but refers back to 139 τῳ ἀνθρώπων."],
+					"πείρατ’": ["πεῖραρ πείρατος", "end, limit"],
+					"ἀμηχανίης.": ["ἀμηχανία", "lack of means, helplessness, hardship"]
+				}
+			},
+			{
+				"number": "141",
+				"content": "ἄνθρωποι δὲ μάταια νομίζομεν, εἰδότες οὐδέν·",
+				"footnotes": {
+					"μάταια": " empty, vain, foolish; here adverbial."
+				}
+			},
+			{
+				"number": "142",
+				"content": "θεοὶ δὲ κατὰ σφέτερον πάντα τελοῦσι νόον.",
+				"footnotes": {
+					"κατὰ": ["", "according to"],
+					"σφέτερον": ["σφέτερος", "their (own); the noun is νόον."],
+					"τελοῦσι": ["τελέω", "acomplish, fulfill"],
+					"νόον": ["νόος", "mind, sense, judgement"]
+				}
 			}
 		]
+  }
 }
