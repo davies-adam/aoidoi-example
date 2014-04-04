@@ -12,6 +12,7 @@
 
 <body>
   <h1>{{data.work.info.author + " ~ " + data.work.info.name}}</h1>
+  <h2>{{data.work.preface}}</h2>
   {% for line in data.work.content %}
     {% for word in line.content.split(" ") %}
       {% if word in line.footnotes %}

@@ -1,0 +1,27 @@
+{
+	"work": {
+		"info": {
+			"name": "133-142",
+			"author": "Theognis"
+		},
+		"content": [
+			{
+				"number": "133",
+				"content": "οὐδεὶς, Κύρν’, ἄτης καὶ κέρδεος αἴτιος αὐτός,",
+				"footnotes": {
+					"Κύρν’,": ["Κύρνος", "vocative. Cyrnus, the youth to whom so many of Theognis's poems are adressed"],
+					"ἄτης": ["ἄτη", "delusion"],
+					"κέρδεος": ["κέρδος", "gain, profit, advantage"],
+					"αὐτός,": ["αἴτιος", "responsible (for) + gen"]
+				}
+			},
+			{
+				"number": "134",
+				"content": "ἀλλὰ θεοὶ τούτων δώτορες ἀμφοτέρων·",
+				"footnotes": {
+					"δώτορες": ["δώτωρ", "giver"],
+					"ἀμφοτέρων": ["ἀμφότερος", "either"]
+				}
+			}
+		]
+}
